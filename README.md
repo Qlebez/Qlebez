@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 !</h1>
 
-<p align="center">I'm <b>Quentin</b>, a french 19 years old CS student !</p>
+<p align="center">I'm <b>Quentin</b>, a french 20 years old CS student !</p>
 
 ---
 
